@@ -4,7 +4,7 @@ Learning SVG format
 
 
 #### Sunset
-![Example](./cool-drawing.svg)
+![Example](cool-drawing.svg)
 
 
 ### Resources

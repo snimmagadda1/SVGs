@@ -4,7 +4,9 @@ Learning SVG format
 
 
 #### Sunset
-![Example](cool-drawing.svg)
+<p align="center">
+  <img width="600" src="https://github.com/snimmagadda1/SVGs/blob/master/cool-drawing.svg">
+</p>
 
 
 ### Resources
